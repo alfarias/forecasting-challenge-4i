@@ -11,7 +11,7 @@ The development was made with Python 3.7 using modules like Pandas for data proc
 All the modules used are on the `requirements.txt` file, which can be used to reproduce the code. <br>
 Jupyter Notebooks are used to development.<br>
 Just change the path variable on the notebooks and run the cells.<br>
-The plots can't be viewed directly on Github, download them and open on jupyter notebook or nteract, also there are notebooks on html format to open on any web browser.
+The plots can't be viewed directly on Github, download them and open on jupyter notebook or nteract.
 
 ## Folders
 * `data`: Contains the main data used for the forecasts.
